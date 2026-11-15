@@ -1,0 +1,31 @@
+﻿level;year;academic_year;status;technical_admissions;technical_women_admissions;official_all_admissions;table_all_admissions;rows_in_total;review_admissions;unavailable_admissions_rows;file;member;sheet
+colleges;2011;2011/12;legacy_included;82942;18176;217465;217465;159;11788;0;sources/data/admissions/colleges/college_2011-2012.rar;2 НК 2011-2012/2 НК для Астаны/Том_2/t3_2_0.xls;Лист1
+colleges;2012;2012/13;legacy_included;73394;15607;204366;204366;129;10615;0;sources/data/admissions/colleges/college_2012-2013.rar;2НК-2012_13/tom_2/t3_1_00.xls;Лист1
+colleges;2013;2013/14;legacy_included;71800;15696;185930;185930;108;8761;0;sources/data/admissions/colleges/college_2013-2014.rar;Б-13-06-Г/1том/t3_2_0.xls;Лист1
+colleges;2014;2014/15;legacy_included;66032;14658;174558;174558;111;9089;0;sources/data/admissions/colleges/college_2014-2015.zip;2 НК/t3_2_0.xls;Лист1
+colleges;2015;2015/16;legacy_included;61107;12435;162931;162931;110;8661;0;sources/data/admissions/colleges/college_2015-2016.rar;бюллетень 2015-2016гг/2-нк/1 том/t3_2_0.xls;Лист1
+colleges;2016;2016/17;legacy_included;59473;11690;162613;162613;111;8085;2;sources/data/admissions/colleges/college_2016-2017.rar;2-НК_16-17гг/1том/t3_1_00.xls;Лист1
+colleges;2017;2017/18;legacy_included;65825;14098;168956;168956;117;7969;0;sources/data/admissions/colleges/college_2017-2018.rar;2-НК/1 том/3.0.xls;3
+colleges;2018;2018/19;legacy_included;64614;14000;165857;165857;118;7676;0;sources/data/admissions/colleges/college_2018-2019.rar;Бюллетень 2-НК/Б-22-02-Г_2018/1том/3.0.xls;3
+colleges;2019;2019/20;legacy_included;59699;12795;153123;153123;121;6450;0;sources/data/admissions/colleges/college_2019-2020.rar;Б-22-02-Г_2019_с 32кфс/Том1.xls;3
+colleges;2020;2020/21;legacy_included;59660;12378;164644;164644;119;6520;0;sources/data/admissions/colleges/college_2020-2021.xls;;3
+colleges;2021;2021/22;published_area;66985;13351;176884;176884;2;0;0;sources/data/admissions/colleges/college_2021-2022.xls;;3
+colleges;2022;2022/23;published_area;77272;16421;195189;195189;2;0;0;sources/data/admissions/colleges/college_2022-2023.xls;;1
+colleges;2023;2023/24;published_area;80527;18200;192843;192843;2;0;0;sources/data/admissions/colleges/college_2023-2024.xlsx;;3
+colleges;2024;2024/25;published_area;82417;18436;194703;194703;2;0;0;sources/data/admissions/colleges/college_2024-2025.xlsx;;3
+colleges;2025;2025/26;published_area;84916;18099;201978;201978;2;0;0;sources/data/admissions/colleges/college_2025-2026.xlsx;;3
+universities;2011;2011/12;legacy_included;40395;12653;197228;196724;59;3590;0;sources/data/admissions/universities/university_2011-2012.rar;Копия 3-НК-2011-2012/3-НК-2011-2012/2-том/t04_00_0__000_00.xls;Лист1
+universities;2012;2012/13;legacy_included;21674;7625;120408;119873;60;2855;0;sources/data/admissions/universities/university_2012-2013.rar;Б-14-05-Г/3-НК-2012-13/2-том/t04_00_0__000_00.xls;Лист1
+universities;2013;2013/14;legacy_included;21810;7272;119333;118540;63;3239;0;sources/data/admissions/universities/university_2013-2014.rar;Б-13-05-Г(3)/Б-13-05-Г/2-том/t04_00_0__000_00.xls;Лист1
+universities;2014;2014/15;legacy_included;23461;7918;125362;124723;60;3242;0;sources/data/admissions/universities/university_2014-2015.rar;Б-13-05-Г/Б-13-05-Г/Б-13-05-Г/Б-13-05-Г/2 том/t04_00_0__000_00.xls;Лист1
+universities;2015;2015/16;legacy_included;23354;7687;115195;113972;39;3319;0;sources/data/admissions/universities/university_2015-2016.rar;Б-23-07-Г/Б-23-07-Г/Б-23-07-Г/2-том/t04_00_0__000 _00.xls;Лист1
+universities;2016;2016/17;legacy_included;28450;8786;147692;147692;36;3774;1;sources/data/admissions/universities/university_2016-2017.rar;3-НК_бюллетень/Бюллетень_3-НК/2-том/1..xls;3
+universities;2017;2017/18;legacy_included;25059;7086;138378;138378;33;3763;2;sources/data/admissions/universities/university_2017-2018.rar;Бюллетень 3-НК для сайт/2-том/1..xls;3
+universities;2018;2018/19;legacy_included;34238;9507;163336;163336;37;5976;0;sources/data/admissions/universities/university_2018-2019.rar;Бюллетень_3-НК_2018/Б-22-03-Г_2018/2-том/1.xls;3
+universities;2019;2019/20;published_area;43514;12982;163494;;2;0;0;sources/data/admissions/universities/university_2019-2020.rar;Б-22-03-Г_2019/2_том.xls;2
+universities;2020;2020/21;published_area;38087;11413;152789;152789;2;0;0;sources/data/admissions/universities/university_2020-2021.xlsx;;17
+universities;2021;2021/22;published_area;39696;11475;159804;159804;2;0;0;sources/data/admissions/universities/university_2021-2022.rar;Б-22-03-Г 2021/Б-22-03-Г 2021.xlsx;17
+universities;2022;2022/23;published_area;42575;11666;163472;163472;2;0;0;sources/data/admissions/universities/university_2022-2023.xlsx;;1
+universities;2023;2023/24;published_area;48772;13388;171699;171699;2;0;0;sources/data/admissions/universities/university_2023-2024.xlsx;;17
+universities;2024;2024/25;published_area;53041;14621;183630;183630;2;0;0;sources/data/admissions/universities/university_2024-2025.xlsx;;17
+universities;2025;2025/26;published_area;57761;15673;208952;208952;2;0;0;sources/data/admissions/universities/university_2025-2026.xlsx;;17
