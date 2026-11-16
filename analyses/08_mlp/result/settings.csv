@@ -1,0 +1,22 @@
+﻿Уровень,Год прогноза,Строк обучения,Последний год обучения,Модель,Параметры,Признаки,Порог или вес,Годы подбора
+Вузы,2022,8,2021,MLPRegressor,"MLPRegressor(activation='tanh', alpha=1.0, hidden_layer_sizes=(4,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,
+Вузы,2023,15,2022,MLPRegressor,"MLPRegressor(activation='tanh', alpha=10.0, hidden_layer_sizes=(8,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,2022
+Вузы,2024,22,2023,MLPRegressor,"MLPRegressor(activation='tanh', alpha=10.0, hidden_layer_sizes=(4,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,"2022, 2023"
+Вузы,2025,29,2024,MLPRegressor,"MLPRegressor(activation='tanh', alpha=10.0, hidden_layer_sizes=(4,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,"2022, 2023, 2024"
+СУЗы,2023,90,2022,MLPRegressor,"MLPRegressor(activation='tanh', alpha=1.0, hidden_layer_sizes=(4,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,
+СУЗы,2024,181,2023,MLPRegressor,"MLPRegressor(activation='tanh', alpha=1.0, hidden_layer_sizes=(8,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,2023
+СУЗы,2025,274,2024,MLPRegressor,"MLPRegressor(activation='tanh', alpha=1.0, hidden_layer_sizes=(8,),
+             max_fun=40000, max_iter=4000, random_state=42, solver='lbfgs',
+             tol=0.001)","Масштаб, структура и динамика",0.5,"2023, 2024"

@@ -1,0 +1,10 @@
+﻿Уровень,Год прогноза,Строк обучения,Последний год обучения,Модель,Параметры,Признаки,Порог или вес,Годы подбора
+Вузы,2022,8,2021,DecisionTreeClassifier,"DecisionTreeClassifier(max_depth=2, min_samples_leaf=2, random_state=42)","Масштаб, структура и динамика",1.0,
+Вузы,2023,15,2022,DecisionTreeClassifier,"DecisionTreeClassifier(max_depth=2, min_samples_leaf=2, random_state=42)","Масштаб, структура и динамика",1.0,2022
+Вузы,2024,22,2023,DecisionTreeClassifier,"DecisionTreeClassifier(max_depth=3, min_samples_leaf=2, random_state=42)","Масштаб, структура и динамика",1.0,"2022, 2023"
+Вузы,2025,29,2024,DecisionTreeClassifier,"DecisionTreeClassifier(max_depth=3, min_samples_leaf=2, random_state=42)","Масштаб, структура и динамика",1.0,"2022, 2023, 2024"
+СУЗы,2023,90,2022,DecisionTreeClassifier,"DecisionTreeClassifier(max_depth=2, min_samples_leaf=2, random_state=42)","Масштаб, структура и динамика",1.0,
+СУЗы,2024,181,2023,DecisionTreeClassifier,"DecisionTreeClassifier(class_weight='balanced', max_depth=3, min_samples_leaf=2,
+                       random_state=42)","Масштаб, структура и динамика",1.0,2023
+СУЗы,2025,274,2024,DecisionTreeClassifier,"DecisionTreeClassifier(class_weight='balanced', max_depth=3, min_samples_leaf=8,
+                       random_state=42)","Масштаб, структура и динамика",1.0,"2023, 2024"

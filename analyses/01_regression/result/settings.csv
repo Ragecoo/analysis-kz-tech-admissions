@@ -1,0 +1,8 @@
+﻿Уровень,Год прогноза,Строк обучения,Последний год обучения,Модель,Параметры,Признаки,Порог или вес,Годы подбора
+Вузы,2022,8,2021,LinearRegression,LinearRegression(),Масштаб,0.5,
+Вузы,2023,15,2022,LinearRegression,LinearRegression(),Масштаб,0.25,2022
+Вузы,2024,22,2023,LinearRegression,LinearRegression(),Масштаб,0.25,"2022, 2023"
+Вузы,2025,29,2024,LinearRegression,LinearRegression(),Масштаб и структура,0.25,"2022, 2023, 2024"
+СУЗы,2023,90,2022,LinearRegression,LinearRegression(),Масштаб,0.5,
+СУЗы,2024,181,2023,LinearRegression,LinearRegression(),Масштаб,0.5,2023
+СУЗы,2025,274,2024,LinearRegression,LinearRegression(),Масштаб и структура,0.25,"2023, 2024"
